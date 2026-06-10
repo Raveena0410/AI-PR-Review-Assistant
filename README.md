@@ -23,3 +23,5 @@ AI PR Review Assistant is a tool that automatically analyzes GitHub Pull Request
 * GitHub Personal Access Token
 * Gemini API Key
 * Google Colab
+
+Link: https://colab.research.google.com/drive/1tvWELoC-3t7qr4C6n8xk27Bzh1udV4VA#scrollTo=xgNwUpUSEaMX
